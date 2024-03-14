@@ -472,3 +472,235 @@ Received Import Request.
 Start importing Assets/Workshop using Guid(6580be99967a64c24a881bce23879c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b7b73d7808753b3ffa1b083ab9321d') in 0.003950 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 158.097996 seconds.
+  path: Assets/Workshop/Buildings
+  artifactKey: Guid(b4ca5964aabdd4361af5d9b6dcf503f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Buildings using Guid(b4ca5964aabdd4361af5d9b6dcf503f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77594dc7e0e4bda5616f5085606d138e') in 0.006970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.316493 seconds.
+  path: Assets/Workshop/Buildings/House_1_BLUE.prefab
+  artifactKey: Guid(9eeb81ae13609b8408ea9c9d993e6dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Buildings/House_1_BLUE.prefab using Guid(9eeb81ae13609b8408ea9c9d993e6dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa836bd3f91e2bcb0ecf823ed42cbacc') in 1.062839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Workshop/Buildings/House_5_GREEN.prefab
+  artifactKey: Guid(8e75bee04f0210545a80d53c3e52710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Buildings/House_5_GREEN.prefab using Guid(8e75bee04f0210545a80d53c3e52710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed2634b27aa3ec35fd4d1e49ae79550') in 0.033873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Workshop/Buildings/House_3_RED.prefab
+  artifactKey: Guid(f2175c0239958cf4fb878a788bb4033c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Buildings/House_3_RED.prefab using Guid(f2175c0239958cf4fb878a788bb4033c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7504f5f2edae85687ee3239618152c76') in 0.027942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.989596 seconds.
+  path: Assets/Workshop/Buildings/House_5_YELLOW.prefab
+  artifactKey: Guid(fd5a67c941ceaff47b783a284bac6d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Buildings/House_5_YELLOW.prefab using Guid(fd5a67c941ceaff47b783a284bac6d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d7b1ae5876f28d49af6513d57557bb') in 0.018939 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 2.353372 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_01.png
+  artifactKey: Guid(a4b2147e66d07ec43a3531b7a69fe204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_01.png using Guid(a4b2147e66d07ec43a3531b7a69fe204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4e63933a05c15ab713912c3111b8b4') in 0.051000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_14.png
+  artifactKey: Guid(ec7b64da4a208e84cb15e593c7af4297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_14.png using Guid(ec7b64da4a208e84cb15e593c7af4297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2587f52a6b6ac39980fc1f7fc55f13e') in 0.008673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_03.png
+  artifactKey: Guid(78ba61dd8270fe247a4f2036d4586832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_03.png using Guid(78ba61dd8270fe247a4f2036d4586832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245869a2ab31879e19d7904a707a3b53') in 0.008030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_08.png
+  artifactKey: Guid(f3a2db2e3fc5a9243bddf27b6e3bde3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_08.png using Guid(f3a2db2e3fc5a9243bddf27b6e3bde3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36229b61024a9e7d516f3dcbfa3e209') in 0.008388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_15.png
+  artifactKey: Guid(87d2cf2bdcead6d49af39eadbe5d79a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_15.png using Guid(87d2cf2bdcead6d49af39eadbe5d79a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9051d442fafc7075378693a1249fd6f0') in 0.009231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_07.png
+  artifactKey: Guid(f11ac1a0d5ea98541a1414035ca2d6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_07.png using Guid(f11ac1a0d5ea98541a1414035ca2d6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebcfad74141f113360870ced6bab20b') in 0.009729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_10.png
+  artifactKey: Guid(99089519ae5120345bd99fbc096c3861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_10.png using Guid(99089519ae5120345bd99fbc096c3861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb7981163cfd6f73660b573a0b48450') in 0.009331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Workshop/Crosshair/Crosshair_11.png
+  artifactKey: Guid(e15708d3316e5b24aa772d0aebf9aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Crosshair/Crosshair_11.png using Guid(e15708d3316e5b24aa772d0aebf9aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d31e2c24baea2ce72fa1158d306ce6e') in 0.007868 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.872451 seconds.
+  path: Assets/Workshop/Effects/BlueBase.prefab
+  artifactKey: Guid(72b8ffe402716524fab696fbfd3b820d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/BlueBase.prefab using Guid(72b8ffe402716524fab696fbfd3b820d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4befc832e0786d91fb6508ffcfb203') in 0.025091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Workshop/Effects/ThundersLight.prefab
+  artifactKey: Guid(b0ec7780455191f46a86f1990dbf727b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/ThundersLight.prefab using Guid(b0ec7780455191f46a86f1990dbf727b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8512ec5c30fd276918e670be931354') in 0.045910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Workshop/Effects/GreenTriangle.prefab
+  artifactKey: Guid(d4ef58a5d3ab6664390be6910386c122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/GreenTriangle.prefab using Guid(d4ef58a5d3ab6664390be6910386c122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c63e61d2900ed3db81fbe8195155df') in 0.008131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Workshop/Effects/Fire.prefab
+  artifactKey: Guid(24113c4e21f3e894b9341cb69546322a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/Fire.prefab using Guid(24113c4e21f3e894b9341cb69546322a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af898e55659038a05fd4e96d884c4845') in 0.008570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Workshop/Effects/RedBase.prefab
+  artifactKey: Guid(dc76913928c6842419009a0a2cd1ebd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/RedBase.prefab using Guid(dc76913928c6842419009a0a2cd1ebd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be80c3bd5d1df517772d04af54227425') in 0.005733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Workshop/Effects/TriangleRain.prefab
+  artifactKey: Guid(d0d47ed1e1db28f4bb7317fde9fd181e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/TriangleRain.prefab using Guid(d0d47ed1e1db28f4bb7317fde9fd181e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9854ed6c14827ee0c03d5267129aa66') in 0.005156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Workshop/Effects/Stone_BulletImpact.prefab
+  artifactKey: Guid(54dd9cb5740188a488b8baebbf19207c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Effects/Stone_BulletImpact.prefab using Guid(54dd9cb5740188a488b8baebbf19207c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d337792051729a876e77a353395815') in 0.051388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 1.642570 seconds.
+  path: Assets/Workshop/Audio/ExplosionNoDebris EXP022601.wav
+  artifactKey: Guid(847730bb3eeb245b3a49862fa9ca3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Audio/ExplosionNoDebris EXP022601.wav using Guid(847730bb3eeb245b3a49862fa9ca3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747407dfd03bc7663c120de5ea70d59d') in 0.255665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.557313 seconds.
+  path: Packages/com.unity.testtools.codecoverage/package.json
+  artifactKey: Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.testtools.codecoverage/package.json using Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312a15105b5b1a672fbbc01e4b0c349f') in 0.001386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.618570 seconds.
+  path: Assets/Workshop/Terrain/Environment.prefab
+  artifactKey: Guid(bea0b33037f92e64499c41f6a99e42d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Terrain/Environment.prefab using Guid(bea0b33037f92e64499c41f6a99e42d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e977e6cf21fa2a86e22e64367d73599e') in 0.035446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 73.304454 seconds.
+  path: Assets/Workshop/Trees/Obelisk.prefab
+  artifactKey: Guid(da44e912b6d3afe4b91a3f60c09e5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Obelisk.prefab using Guid(da44e912b6d3afe4b91a3f60c09e5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbdc0ea117fce33c349f3e355a247abb') in 0.063964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Workshop/Trees/Tree_1.prefab
+  artifactKey: Guid(f4026fb3031d2064290e279bc3422b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Tree_1.prefab using Guid(f4026fb3031d2064290e279bc3422b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2805d9519ed1083d57eae0355753dbc2') in 0.025514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Workshop/Trees/Tree_4.prefab
+  artifactKey: Guid(e4a2f67b2b12e1849a3d9b6cb1a53067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Tree_4.prefab using Guid(e4a2f67b2b12e1849a3d9b6cb1a53067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63c3d6d5e152a3f08e07d54798335b3') in 0.020359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Workshop/Trees/Tree_6.prefab
+  artifactKey: Guid(08ea90fd04f996f43872143406b73b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Tree_6.prefab using Guid(08ea90fd04f996f43872143406b73b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af515b32db63d3ce6367998267d7c0c5') in 0.019388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Workshop/Trees/Tree3.prefab
+  artifactKey: Guid(c26b5e59792023a48bc84851b6b9d931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Tree3.prefab using Guid(c26b5e59792023a48bc84851b6b9d931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1643b01ee4f8f4702e013f36f2cd2fd8') in 0.604541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 90.858419 seconds.
+  path: Packages/com.unity.editorcoroutines/package.json
+  artifactKey: Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.editorcoroutines/package.json using Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd67d7a7ae6739df3ffd26c8a7e7974') in 0.006650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
