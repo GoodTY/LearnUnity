@@ -1,0 +1,318 @@
+Unity Editor version:    2022.3.21f1 (bf09ca542b87)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.0 (Build 23A344)
+Darwin version:          23.0.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/polgant/Documents/GitHub/LearnUnity/LearnUnity
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49520
+Successfully changed project path to: /Users/polgant/Documents/GitHub/LearnUnity/LearnUnity
+/Users/polgant/Documents/GitHub/LearnUnity/LearnUnity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7976588032] Host "[IP] 172.17.133.80 [Port] 0 [Flags] 2 [Guid] 2899899649 [EditorId] 2899899649 [Version] 1048832 [Id] OSXEditor(0,F-Macui-MacBookAir.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7976588032] Host "[IP] 172.17.133.80 [Port] 0 [Flags] 2 [Guid] 2899899649 [EditorId] 2899899649 [Version] 1048832 [Id] OSXEditor(0,F-Macui-MacBookAir.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 24.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.21f1 (bf09ca542b87)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/polgant/Documents/GitHub/LearnUnity/LearnUnity/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56630
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.21f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.006820 seconds.
+- Loaded All Assemblies, in  0.586 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.503 seconds
+Domain Reload Profiling: 1089ms
+	BeginReloadAssembly (149ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (88ms)
+	LoadAllAssembliesAndSetupDomain (266ms)
+		LoadAssemblies (149ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (262ms)
+			TypeCache.Refresh (260ms)
+				TypeCache.ScanAssembly (236ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (503ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (386ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (13ms)
+			ProcessInitializeOnLoadAttributes (267ms)
+			ProcessInitializeOnLoadMethodAttributes (80ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.001 seconds
+Refreshing native plugins compatible for Editor in 2.26 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.902 seconds
+Domain Reload Profiling: 1906ms
+	BeginReloadAssembly (137ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (73ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (92ms)
+	LoadAllAssembliesAndSetupDomain (672ms)
+		LoadAssemblies (398ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (337ms)
+			TypeCache.Refresh (309ms)
+				TypeCache.ScanAssembly (267ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (903ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (626ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (483ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.14 seconds
+Refreshing native plugins compatible for Editor in 2.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3101 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (51.5 KB). Loaded Objects now: 3563.
+Memory consumption went from 127.6 MB to 127.5 MB.
+Total: 5.415042 ms (FindLiveObjects: 0.187875 ms CreateObjectMapping: 0.100375 ms MarkObjects: 4.963708 ms  DeleteObjects: 0.162250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 712033.010725 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_3_BLUE.fbx
+  artifactKey: Guid(5ec8b594fc44f8a4cacaffe4ac7e5fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_3_BLUE.fbx using Guid(5ec8b594fc44f8a4cacaffe4ac7e5fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fb7c25dbd541d6e79c2048fde2d545') in 0.809469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Workshop/Skybox/Textures/Dark Nebula Skybox MAT.mat
+  artifactKey: Guid(04d10717a9d480c429720c46de66b684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Skybox/Textures/Dark Nebula Skybox MAT.mat using Guid(04d10717a9d480c429720c46de66b684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd00bd713630e638504c889c7b91e1e') in 0.610877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Workshop/etc/Materials/Misc/CFX_Smoke_4frms.mat
+  artifactKey: Guid(3217b570b11b257469c5461f0457e5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/Misc/CFX_Smoke_4frms.mat using Guid(3217b570b11b257469c5461f0457e5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af1701eeab4ea7c4a073b429dd6821d') in 0.029407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Workshop/etc/Materials/CircleMaterial_12.mat
+  artifactKey: Guid(520bdc1b7b8a7164b8f9f51208c7adec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/CircleMaterial_12.mat using Guid(520bdc1b7b8a7164b8f9f51208c7adec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480131efda6e55730e8195eb70ae339f') in 0.026860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Workshop/etc/Materials/Ground.mat
+  artifactKey: Guid(c92f85b0b02ef904f92c03bad18fbe2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/Ground.mat using Guid(c92f85b0b02ef904f92c03bad18fbe2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da51af38dd9ce4cc1845494355819bb') in 0.008622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 33.914209 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_3_YELLOW.fbx
+  artifactKey: Guid(b569d3bd350e4544fb98f1dbe01e7ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_3_YELLOW.fbx using Guid(b569d3bd350e4544fb98f1dbe01e7ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ae43ff0665d5c324db59c76eea81ac') in 0.023105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_4_GREEN.fbx
+  artifactKey: Guid(8444d86407e9872428f2b36fc123e78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_4_GREEN.fbx using Guid(8444d86407e9872428f2b36fc123e78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c630933c83fe2c95c5348a9c16e19ec1') in 0.010294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Workshop/etc/Models/Trees/Tree_1.fbx
+  artifactKey: Guid(8bf5d0b7fb426134dad28bfda9f12964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Trees/Tree_1.fbx using Guid(8bf5d0b7fb426134dad28bfda9f12964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c7c5b31b1d5b177906e6c30befc7a2') in 0.009195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_4_YELLOW.fbx
+  artifactKey: Guid(4727dfb14f9f68749ab3891b4fb56775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_4_YELLOW.fbx using Guid(4727dfb14f9f68749ab3891b4fb56775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edef31e0956784db70811c85127ba12a') in 0.008463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_5_YELLOW.fbx
+  artifactKey: Guid(9d92b54bcb1912b4dae35580314517eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_5_YELLOW.fbx using Guid(9d92b54bcb1912b4dae35580314517eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba6f712545662cbec478b2e5d613340') in 0.010527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Workshop/etc/Models/Buildings/House_5_GREEN.fbx
+  artifactKey: Guid(e5fd3ac3e6d5b6f44b2b9fa1bba4fab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Buildings/House_5_GREEN.fbx using Guid(e5fd3ac3e6d5b6f44b2b9fa1bba4fab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df49db4743266298b77396e777720976') in 0.014401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Workshop/etc/Models/Trees/Obelisk.fbx
+  artifactKey: Guid(67322be84886f4f408e93f721e7b8cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Models/Trees/Obelisk.fbx using Guid(67322be84886f4f408e93f721e7b8cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26525dd32cce87113f756422d87f18ce') in 0.008378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 249.004524 seconds.
+  path: Assets/Workshop/etc/Materials/GroundTerrain.mat
+  artifactKey: Guid(7af2fbad13b21e3449f291c5ab3e3adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/GroundTerrain.mat using Guid(7af2fbad13b21e3449f291c5ab3e3adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e059b88605e68814e7ce305917c2b07') in 0.031515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Workshop/etc/Materials/Mountains.mat
+  artifactKey: Guid(6a315153c447e8e469d40a3dc58c93d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/Mountains.mat using Guid(6a315153c447e8e469d40a3dc58c93d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b77db8457ff436af06f53eb32096a0c') in 0.078783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Workshop/etc/Materials/stone_atlas.mat
+  artifactKey: Guid(1b309223ac4ff1047abbac6457f6981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/etc/Materials/stone_atlas.mat using Guid(1b309223ac4ff1047abbac6457f6981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c711a5fdbd5f07b19f81d5aa91c1ab') in 0.007005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.880838 seconds.
+  path: Assets/Workshop/Trees/Tree2.prefab
+  artifactKey: Guid(8700685221f67434292a0bd8ac366b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Workshop/Trees/Tree2.prefab using Guid(8700685221f67434292a0bd8ac366b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e5ae96076caa846a020505e7abe11b') in 0.013746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
